@@ -1,7 +1,7 @@
 # Growzernal
 growtopia internal for version 4.19
 
-##([GROWZERNAL DISCORD SERVER](https://discord.gg/SfUQG7ryxF))
+## ([GROWZERNAL DISCORD SERVER](https://discord.gg/SfUQG7ryxF))
 
 Current Growzernal price is -> 10 Dls
 
