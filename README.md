@@ -1,8 +1,4 @@
-Tabii, işte Growzernal için daha havalı ve profesyonel bir GitHub metni:
-
----
-
-# Growzernal 🌱✨
+# Growzernal 🌟🛠️
 **The Ultimate Growtopia Internal Tool for Version 4.19**
 
 ### Current Price: **10 DLS**
@@ -40,7 +36,7 @@ Connect with fellow Growzernal users, get support, and stay updated with the lat
 
 ---
 
-Get ready to elevate your Growtopia experience with Growzernal. Happy growing! 🌱✨
+Get ready to elevate your Growtopia experience with Growzernal. Happy growing! 🌟🛠️
 
 ---
 
