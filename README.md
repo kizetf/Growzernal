@@ -37,7 +37,3 @@ Connect with fellow Growzernal users, get support, and stay updated with the lat
 ---
 
 Get ready to elevate your Growtopia experience with Growzernal. Happy growing! 🌟🛠️
-
----
-
-Feel free to customize this further to better suit your style and needs!
