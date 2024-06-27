@@ -12,13 +12,9 @@
 ## 📸 Growzernal in Action
 Experience Growzernal's powerful features with these screenshots:
 
-![Screenshot 1](https://github.com/kizetf/Growzernal/assets/135320386/989a5f64-63b0-4bc6-8f5b-4ddd3dcf3788)
+![Ekran görüntüsü 2024-06-27 094830](https://github.com/kizetf/Growzernal/assets/135320386/9a29cca9-efb2-4c14-8219-ab98e1734e70)
 
-![Screenshot 2](https://github.com/kizetf/Growzernal/assets/135320386/a1716b10-4971-417e-9301-3fddf58136d2)
-
-![Screenshot 3](https://github.com/kizetf/Growzernal/assets/135320386/4b8bb56f-ad9b-405a-a388-3d8b069d5d18)
-
-![Screenshot 4](https://github.com/kizetf/Growzernal/assets/135320386/1696ec84-c94a-4e92-8767-39cc1d317710)
+![Ekran görüntüsü 2024-06-27 094849](https://github.com/kizetf/Growzernal/assets/135320386/8a6b312e-b235-4e68-b33a-1118066de284)
 
 ---
 
