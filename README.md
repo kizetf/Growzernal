@@ -1,4 +1,4 @@
-# Growzernal 🌟🛠️
+# Growzernal 🌟🔥
 **The Ultimate Growtopia Internal Tool for Version 4.19**
 
 ### Current Price: **10 DLS**
@@ -9,7 +9,7 @@
 
 ---
 
-## 📸 Growzernal in Action
+## 📸 Some Pictures of Growzernal
 Experience Growzernal's powerful features with these screenshots:
 
 ![Ekran görüntüsü 2024-06-27 094830](https://github.com/kizetf/Growzernal/assets/135320386/9a29cca9-efb2-4c14-8219-ab98e1734e70)
@@ -32,4 +32,4 @@ Connect with fellow Growzernal users, get support, and stay updated with the lat
 
 ---
 
-Get ready to elevate your Growtopia experience with Growzernal. Happy growing! 🌟🛠️
+Get ready to elevate your Growtopia experience with Growzernal. Happy growing! 🌟🔥
