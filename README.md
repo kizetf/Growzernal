@@ -1,5 +1,5 @@
 # Growzernal 🌟🔥
-**The Ultimate Growtopia Internal Tool for Version 4.19**
+**The Ultimate Growtopia Internal Tool for Real Growtopia**
 
 ### Current Price: **10 DLS**
 
