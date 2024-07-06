@@ -5,7 +5,7 @@
 
 ## [Join the Growzernal Discord Server](https://discord.gg/SfUQG7ryxF)
 
-### [How to Purchase - Tutorial](https://discord.com/channels/1237858709724467230/1251499847861927936/1251502410002595952) | [Download Growzernal](https://cdn.discordapp.com/attachments/1237864053196455967/1258464724421705888/Growzernal.rar?ex=6688241b&is=6686d29b&hm=877bfdcaf5bc6da95f0b2076835a1c6a3f617b8644812688ef27db5fe9ff8129&)
+### [How to Purchase - Tutorial](https://discord.com/channels/1237858709724467230/1251499847861927936/1251502410002595952) | [Download Growzernal](https://cdn.discordapp.com/attachments/1188872170894532681/1259200412813361222/Growzernal.rar?ex=668ad145&is=66897fc5&hm=0c190589feff561883527204479406721e3f210c1ca6ebb452696a9ffdde896b&)
 
 ---
 
