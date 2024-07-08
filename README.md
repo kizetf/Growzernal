@@ -16,6 +16,8 @@ Experience Growzernal's powerful features with these screenshots:
 
 ![Ekran görüntüsü 2024-06-27 094849](https://github.com/kizetf/Growzernal/assets/135320386/8a6b312e-b235-4e68-b33a-1118066de284)
 
+https://github.com/kizetf/Growzernal/assets/135320386/0d8d6759-66fe-4230-928c-026d87b0927b
+
 ---
 
 ## 🌐 Growtopia 4.19 Installer
